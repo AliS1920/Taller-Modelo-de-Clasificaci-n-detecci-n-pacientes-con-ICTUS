@@ -1,0 +1,1 @@
+# Taller-Modelo-de-Clasificaci-n-detecci-n-pacientes-con-ICTUS
